@@ -1,0 +1,95 @@
+
+.colorf{
+  color: #ffffff;
+}
+
+.cuadrado{
+  width: 40%;
+  background:#ec9cdc;
+  margin-left: 30%;
+}
+.borde{
+
+  border: 2px solid white;
+}
+.margen{
+  margin: 30%;
+  margin-top: 5%;
+}
+
+.título{
+  background: #2d2b2d;
+}
+
+ .botones{
+   background: #ffffff;
+   color:#2d2b2d;
+   margin-left: 85%;
+
+ }
+
+ .backnar{
+   background:#fe9600;
+ }
+
+ .juntar{
+   margin-top: -5%;
+ }
+
+ .margeni{
+   margin: 5%;
+ }
+.boton{
+  background: #fe9600;
+  color: #ffffff;
+}
+
+.margendiv{
+  margin: 3%;
+}
+
+.cosito{
+  width: 50%;
+  background:#fe9600;
+  opacity: 90%;
+}
+
+.botonu{
+  background: #ffffff;
+  color: #3a3838;
+}
+.sectionm {
+  width: 102%;
+  height: 43em;
+  margin-top: -6%;
+
+}
+.bultsec{
+  background: #2b2929;
+}
+
+
+hr{
+  width: 90%;
+}
+
+.margeimf{
+margin: 3%;
+}
+
+.margenr{
+  margin-top: 20%;
+  margin-left: 10%;
+}
+
+li {
+
+  padding: 6%;
+  list-style: none;
+}
+
+.margenlogos{
+  margin-top: 12%;
+
+
+}
